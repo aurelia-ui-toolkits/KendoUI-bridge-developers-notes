@@ -12,4 +12,5 @@
 * [Managing tutorial samples](managing_tutorial_samples.md)
    * [KendoUI-skeleton-esnext](Managing tutorial samples/kendoui-skeleton-esnext.md)
    * [KendoUI-skeleton-esnext-aspnetcore](Managing tutorial samples/kendoui-skeleton-esnext-aspnetcore.md)
+   * KendoUI-skeleton-esnext-webpack
 
