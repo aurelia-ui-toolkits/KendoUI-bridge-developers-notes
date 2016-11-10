@@ -6,14 +6,26 @@ In order to ensure the best possible syncronization between the Aurelia's **[ske
 
 This article explains the creation and management of the **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository which contains the finished code for samples as tutorials in the section **[4. Application Developer tutorials](https://aurelia-ui-toolkits.gitbooks.io/kendoui-bridge-docs/content/developers_tutorials.html)**. The process is very similar for all entries in **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository:
 
-### Step 1 
+#### Step 1 
 Copy the code of the original navigation skeleton sample from **[skeleton-navigation](https://github.com/aurelia/skeleton-navigation)** sample to **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)**
 
-### Step 2
+#### Step 2
 "Massage" the original code in just the created **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository to add all changes needed to make this sample use KendoUI bridge.
 
 The specifics of each transformation ("massage") are described on the following pages:
 
 [1. KendoUI-skeleton-esnext](./kendoui-skeleton-esnext.html)
+
+[2 KendoUI-skeleton-esnext-aspnetcore](./kendoui-skeleton-esnext-aspnetcore.html)
+
+[3. KendoUI-skeleton-esnext-webpack](kendoui-skeleton-esnext-webpack.html)
+
+[4. ]()
+
+[5. ]()
+
+[6. ]()
+
+
 
 
