@@ -8,9 +8,6 @@ This article focuses on creation and management of the **[kendoui-tutorials-code
 
 
 
-### Sample 1 - KendoUI-skeleton-esnext
-| [Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext)| [Matching KendoUI sample]() |
-
 
 
 ### Sample 2 - KendoUI-skeleton-esnext-aspnetcore
