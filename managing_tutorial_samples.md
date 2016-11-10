@@ -13,7 +13,6 @@ This article focuses on creation and management of the **[kendoui-tutorials-code
 
 
 
-
 ### Sample 2 - KendoUI-skeleton-esnext-aspnetcore
 
 |[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)|[Matching KendoUI sample]()|
