@@ -10,9 +10,6 @@ This article focuses on creation and management of the **[kendoui-tutorials-code
 
 
 
-### Sample 4 - KendoUI-skeleton-typescript
-
-|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript)|[Matching KendoUI sample]()|
 
 ### Sample 5 - KendoUI-skeleton-typescript-aspnetcore
 
