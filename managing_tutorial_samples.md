@@ -20,11 +20,11 @@ The specifics of each transformation ("massage") are described on the following 
 
 [3. KendoUI-skeleton-esnext-webpack](./managing_tutorial_samples/kendoui-skeleton-esnext-webpack.html)
 
-[4. ]()
+[4. KendoUI-skeleton-typescript](./managing_tutorial_samples/kendoui-skeleton-typescript.html)
 
-[5. ]()
+[5. ](./managing_tutorial_samples/)
 
-[6. ]()
+[6. ](./managing_tutorial_samples/)
 
 
 
