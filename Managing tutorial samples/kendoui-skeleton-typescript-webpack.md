@@ -1,3 +1,4 @@
 _Managing tutorial samples_
-# KendoUI-skeleton-typescript-webpack
+### Sample 6 - KendoUI-skeleton-typescript-webpack
 
+|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack)|[Matching KendoUI sample]()|
