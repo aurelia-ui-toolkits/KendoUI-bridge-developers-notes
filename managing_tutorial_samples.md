@@ -9,15 +9,25 @@ This article focuses on creation and management of the **[kendoui-tutorials-code
 
 ### Sample 1 - KendoUI-skeleton-esnext
 
-https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext
+[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext)
 
 
 ### Sample 2 - KendoUI-skeleton-esnext-aspnetcore
 
+[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)
+
 ### Sample 3 - KendoUI-skeleton-esnext-webpack
+
+[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack)
 
 ### Sample 4 - KendoUI-skeleton-typescript
 
+[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript)
+
 ### Sample 5 - KendoUI-skeleton-typescript-aspnetcore
 
+[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript-aspnetcore)
+
 ### Sample 6 - KendoUI-skeleton-typescript-webpack
+
+[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)
