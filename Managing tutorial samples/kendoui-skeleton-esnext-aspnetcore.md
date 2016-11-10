@@ -1,0 +1,2 @@
+# KendoUI-skeleton-esnext-aspnetcore
+
