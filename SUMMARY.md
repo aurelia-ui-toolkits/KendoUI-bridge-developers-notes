@@ -10,5 +10,5 @@
 * [Registry helper class](registry_helper_class.md)
 * [Creating gists for the catalog app](creating_gists_for_the_catalog_app.md)
 * [Managing tutorial samples](managing_tutorial_samples.md)
-   * KendoUI-skeleton-esnext
+   * [KendoUI-skeleton-esnext](Managing tutorial samples/kendoui-skeleton-esnext.md)
 
