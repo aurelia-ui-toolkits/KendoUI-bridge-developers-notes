@@ -1,4 +1,4 @@
-### Managing tutorial samples
+# Managing tutorial samples
 
 This article documents the process of creating and managing the content described in the section **[4. Application Developer tutorials](https://aurelia-ui-toolkits.gitbooks.io/kendoui-bridge-docs/content/developers_tutorials.html)** from the **[Aurelia KendoUI Bridge Documentation](https://aurelia-ui-toolkits.gitbooks.io/kendoui-bridge-docs/content/)**
 
@@ -7,3 +7,17 @@ In order to ensure the best possible syncronization between the Aurelia's **[ske
 This article focuses on creation and management of the **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository which contains the finished code for used as tutorials in the section **[4. Application Developer tutorials](https://aurelia-ui-toolkits.gitbooks.io/kendoui-bridge-docs/content/developers_tutorials.html)**.
 
 
+### Sample 1 - KendoUI-skeleton-esnext
+
+https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext
+
+
+### Sample 2 - KendoUI-skeleton-esnext-aspnetcore
+
+### Sample 3 - KendoUI-skeleton-esnext-webpack
+
+### Sample 4 - KendoUI-skeleton-typescript
+
+### Sample 5 - KendoUI-skeleton-typescript-aspnetcore
+
+### Sample 6 - KendoUI-skeleton-typescript-webpack
