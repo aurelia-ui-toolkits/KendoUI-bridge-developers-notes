@@ -12,7 +12,7 @@ Copy the code of the original navigation skeleton sample from **[skeleton-naviga
 ### Step 2
 "Massage" the original code in just the created **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository to add all changes needed to make this sample use KendoUI bridge.
 
-The specifics of each "massage" (transformation) are described on the following pages:
+The specifics of each transformation ("massage") are described on the following pages:
 
 [1. KendoUI-skeleton-esnext](./kendoui-skeleton-esnext.html)
 
