@@ -1,3 +1,4 @@
 _Managing tutorial samples_
-# KendoUI-skeleton-esnext-aspnetcore
+### Sample 2 - KendoUI-skeleton-esnext-aspnetcore
 
+|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)|[Matching KendoUI sample]()|
