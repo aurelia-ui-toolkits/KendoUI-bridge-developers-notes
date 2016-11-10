@@ -14,11 +14,11 @@ Copy the code of the original navigation skeleton sample from **[skeleton-naviga
 
 The specifics of each transformation ("massage") are described on the following pages:
 
-[1. KendoUI-skeleton-esnext](./kendoui-skeleton-esnext.html)
+[1. KendoUI-skeleton-esnext](.managing_tutorial_samples/kendoui-skeleton-esnext.html)
 
-[2 KendoUI-skeleton-esnext-aspnetcore](./kendoui-skeleton-esnext-aspnetcore.html)
+[2 KendoUI-skeleton-esnext-aspnetcore](./managing_tutorial_samples/kendoui-skeleton-esnext-aspnetcore.html)
 
-[3. KendoUI-skeleton-esnext-webpack](kendoui-skeleton-esnext-webpack.html)
+[3. KendoUI-skeleton-esnext-webpack](./managing_tutorial_samples/kendoui-skeleton-esnext-webpack.html)
 
 [4. ]()
 
