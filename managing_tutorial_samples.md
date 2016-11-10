@@ -30,4 +30,4 @@ This article focuses on creation and management of the **[kendoui-tutorials-code
 
 ### Sample 6 - KendoUI-skeleton-typescript-webpack
 
-[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)
+[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack)
