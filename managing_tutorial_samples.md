@@ -22,7 +22,7 @@ The specifics of each transformation ("massage") are described on the following 
 
 [4. KendoUI-skeleton-typescript](./managing_tutorial_samples/kendoui-skeleton-typescript.html)
 
-[5. ](./managing_tutorial_samples/)
+[5. KendoUI-skeleton-typescript-aspnetcore](./managing_tutorial_samples/kendoui-skeleton-typescript-aspnetcore.html)
 
 [6. ](./managing_tutorial_samples/)
 
