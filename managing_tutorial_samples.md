@@ -11,9 +11,6 @@ This article focuses on creation and management of the **[kendoui-tutorials-code
 
 
 
-### Sample 5 - KendoUI-skeleton-typescript-aspnetcore
-
-|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript-aspnetcore)|[Matching KendoUI sample]()|
 
 ### Sample 6 - KendoUI-skeleton-typescript-webpack
 
