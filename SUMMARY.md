@@ -11,5 +11,5 @@
 * [Creating gists for the catalog app](creating_gists_for_the_catalog_app.md)
 * [Managing tutorial samples](managing_tutorial_samples.md)
    * [KendoUI-skeleton-esnext](Managing tutorial samples/kendoui-skeleton-esnext.md)
-   * KendoUI-skeleton-esnext-aspnetcore
+   * [KendoUI-skeleton-esnext-aspnetcore](Managing tutorial samples/kendoui-skeleton-esnext-aspnetcore.md)
 
