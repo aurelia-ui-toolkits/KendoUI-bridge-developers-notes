@@ -7,27 +7,29 @@ In order to ensure the best possible syncronization between the Aurelia's **[ske
 This article focuses on creation and management of the **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository which contains the finished code for used as tutorials in the section **[4. Application Developer tutorials](https://aurelia-ui-toolkits.gitbooks.io/kendoui-bridge-docs/content/developers_tutorials.html)**.
 
 
-### Sample 1 - KendoUI-skeleton-esnext
 
-[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext)
+### Sample 1 - KendoUI-skeleton-esnext
+| [Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext)| [Matching KendoUI sample]() |
+
+
 
 
 ### Sample 2 - KendoUI-skeleton-esnext-aspnetcore
 
-[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)
+|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)|[Matching KendoUI sample]()|
 
 ### Sample 3 - KendoUI-skeleton-esnext-webpack
 
-[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack)
+|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack)|[Matching KendoUI sample]()|
 
 ### Sample 4 - KendoUI-skeleton-typescript
 
-[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript)
+|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript)|[Matching KendoUI sample]()|
 
 ### Sample 5 - KendoUI-skeleton-typescript-aspnetcore
 
-[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript-aspnetcore)
+|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-typescript-aspnetcore)|[Matching KendoUI sample]()|
 
 ### Sample 6 - KendoUI-skeleton-typescript-webpack
 
-[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack)
+|[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack)|[Matching KendoUI sample]()|
