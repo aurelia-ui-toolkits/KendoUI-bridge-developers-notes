@@ -9,6 +9,7 @@
 * [Harvesting bindable variables](harvesting_bindable_variables.md)
 * [Registry helper class](registry_helper_class.md)
 * [Creating gists for the catalog app](creating_gists_for_the_catalog_app.md)
+   * KendoUI-skeleton-typescript-webpack
 * [Managing tutorial samples](managing_tutorial_samples.md)
    * [KendoUI-skeleton-esnext](managing_tutorial_samples/kendoui-skeleton-esnext.md)
    * [KendoUI-skeleton-esnext-aspnetcore](managing_tutorial_samples/kendoui-skeleton-esnext-aspnetcore.md)
