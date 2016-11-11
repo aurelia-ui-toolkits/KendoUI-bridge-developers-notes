@@ -15,4 +15,5 @@
    * [KendoUI-skeleton-esnext-webpack](managing_tutorial_samples/kendoui-skeleton-esnext-webpack.md)
    * [KendoUI-skeleton-typescript](managing_tutorial_samples/kendoui-skeleton-typescript.md)
    * [KendoUI-skeleton-typescript-aspnetcore](managing_tutorial_samples/kendoui-skeleton-typescript-aspnetcore.md)
+   * KendoUI-skeleton-typescript-webpack
 
