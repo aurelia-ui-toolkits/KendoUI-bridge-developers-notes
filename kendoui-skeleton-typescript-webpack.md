@@ -1,2 +1,0 @@
-# KendoUI-skeleton-typescript-webpack
-
