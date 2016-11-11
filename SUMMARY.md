@@ -13,5 +13,4 @@
    * [KendoUI-skeleton-esnext](Managing tutorial samples/kendoui-skeleton-esnext.md)
    * [KendoUI-skeleton-esnext-aspnetcore](Managing tutorial samples/kendoui-skeleton-esnext-aspnetcore.md)
    * [KendoUI-skeleton-esnext-webpack](Managing tutorial samples/kendoui-skeleton-esnext-webpack.md)
-   * [KendoUI-skeleton-typescript](Managing tutorial samples/kendoui-skeleton-typescript.md)
 
