@@ -26,6 +26,13 @@ The specifics of each transformation ("massage") are described on the following 
 
 [6. KendoUI-skeleton-typescript-webpack](./managing_tutorial_samples/kendoui-skeleton-typescript-webpack.html)
 
+On each page we show what needs to be changed in order to add a few additional tabs which render Aurelia KendoUI components: 
+
+- **`Autocomplete`** and **`Button`** tabs to illustrate the use of KendoUI Core
+- **`Chart`** and **`Grid`** tabs to illustrate the use of KendoUI Pro
+
+***
+
 
 
 
