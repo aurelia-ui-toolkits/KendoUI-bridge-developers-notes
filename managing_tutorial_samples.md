@@ -28,8 +28,8 @@ The specifics of each transformation ("massage") are described on the following 
 
 On each page we show what needs to be changed in order to add a few additional tabs which render Aurelia KendoUI components: 
 
-- **`Autocomplete`** and **`Button`** tabs to illustrate the use of KendoUI Core
-- **`Chart`** and **`Grid`** tabs to illustrate the use of KendoUI Pro
+- **`Autocomplete`** and **`Button`** tabs to illustrate the use of **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)**
+- **`Chart`** and **`Grid`** tabs to illustrate the use of **[KendoUI Pro](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_pro.html)**
 
 ***
 
