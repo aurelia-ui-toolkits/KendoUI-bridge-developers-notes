@@ -13,17 +13,98 @@ Image 2
 where:
 
 **`autocomplete.html`**
+```
+<template>
+  <section>
+    <br>
+    <h3>Basic KendoUI Autocomplete sample</h3>
 
+    <a href="https://github.com/aurelia-ui-toolkits/aurelia-kendoui-plugin/tree/master/sample/src/samples/autocomplete">See KendoUI Bridge autocomplete folder for more details</a>
+    <br>
+    <br>
+
+    <p><strong>People:</strong></p>
+    <ak-autocomplete k-data-source.bind="items">
+        <input style="width: 100%;">
+    </ak-autocomplete>
+    <br>
+    <br>
+    <br>
+    <p class="demo-hint" style="word-break: break-all">Type a name, available values in the list are: ${ items } </p>
+  </section>
+</template>
+```
+
+<br>
 
 **`autocomplete.js`**
+```
+export class BasicUse {
+  items = [
+    'Charles',
+    'Jedd',
+    'Nikolaj',
+    'Jeroen',
+    'David',
+    'Rob',
+    'Matt',
+    'Patrick',
+    'Jason',
+    'Martin',
+    'Fredrick',
+    'Alex'
+  ]
+}
+```
 
+<br>
 
 **`button.html`**
+```
+<template>
+    <require from="./button.css"></require>
+    <section>
+        <br>
+        <h3>Basic KendoUI Button API sample</h3>
 
+        <a href="https://github.com/aurelia-ui-toolkits/aurelia-kendoui-plugin/tree/master/sample/src/samples/button">See KendoUI Bridge button folder for more details</a>
+        <br>
+        <br>
+
+        &nbsp;&nbsp;<button ak-button="k-icon: ungroup; k-widget.bind: button" k-on-click.delegate="test()">Kendo UI Button</button>
+        <br>
+        <br>
+        <button ak-button click.delegate="button.enable(false)">Disable</button>
+        &nbsp;&nbsp;
+        <button ak-button click.delegate="button.enable(true)">Enable</button>
+
+    </section>
+</template>
+```
+
+<br>
 
 **`button.js`**
+```
+export class ButtonApi {
+    test() {
+      alert('You clicked me');
+    }
+}
+```
 
+<br>
 
 **`button.css`**
+```
+#button .demo-section {
+    text-align: center;
+}
+#button .box .k-textbox {
+    margin: 0;
+    width: 80px;
+}
+```
+
 
 
