@@ -10,4 +10,20 @@ This sample uses **[JSPM](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-i
 Image 2
 </p>
 
+where:
+
+**`autocomplete.html`**
+
+
+**`autocomplete.js`**
+
+
+**`button.html`**
+
+
+**`button.js`**
+
+
+**`button.css`**
+
 
