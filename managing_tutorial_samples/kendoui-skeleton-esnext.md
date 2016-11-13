@@ -4,13 +4,16 @@ _Managing tutorial samples_
 
 #### Step 1 - add KendoUI bridge
 
-```
-λ npm install aurelia-kendoui-bridge
-aurelia-skeleton-navigation@1.1.1 C:\work\aurelia-ui-toolkits\kendoui\kendoui-tutorials-code\skeleton-esnext
-`-- aurelia-kendoui-bridge@1.0.1
+Assuming that the original source code was successfuly built and executed by
 
-npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules\chokidar\node_modules\fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.0.15: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+```
+npm install && jspm install && gulp watch
+```
+
+the KendoUI bridge is added by running
+
+```
+jspm install aurelia-kendoui-bridge
 ```
 
 
