@@ -2,6 +2,18 @@ _Managing tutorial samples_
 ### Sample 1 - KendoUI-skeleton-esnext
 | [Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext)| [Matching KendoUI sample](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext) |
 
+#### Step 1 - add KendoUI bridge
+
+```
+λ npm install aurelia-kendoui-bridge
+aurelia-skeleton-navigation@1.1.1 C:\work\aurelia-ui-toolkits\kendoui\kendoui-tutorials-code\skeleton-esnext
+`-- aurelia-kendoui-bridge@1.0.1
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.0.15: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+```
+
+
 This sample uses **[JSPM](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/advanced/core/jspm.html)** module loader and **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)** package and adds the **`Autocomplete`** and **`Button`** tabs to the standard Skeleton-esnext application, by adding the **`kendoui`** folder to the original application's **`src`** folder as shown on Image 1 below
 
 <p align=center>
