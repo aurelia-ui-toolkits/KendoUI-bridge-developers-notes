@@ -18,7 +18,7 @@ jspm install aurelia-kendoui-bridge
 
 #### Step 2 - add source code using KendoUI bridge
 
-This sample uses **[JSPM](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/advanced/core/jspm.html)** module loader and **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)** package and adds the **`Autocomplete`** and **`Button`** tabs to the standard Skeleton-esnext application, by adding the **`kendoui`** folder to the original application's **`src`** folder as shown on Image 1 below
+This sample uses **[JSPM](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/advanced/core/jspm.html)** module loader and adds two "widgets" **`Autocomplete`** and **`Button`** from  **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)** package  to the standard Skeleton-esnext application, by adding the **`kendoui`** folder to the original application's **`src`** folder as shown on Image 1 below
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/20242496/ba3747c4-a8fd-11e6-8bc9-593ac142dfa8.png"></img>
