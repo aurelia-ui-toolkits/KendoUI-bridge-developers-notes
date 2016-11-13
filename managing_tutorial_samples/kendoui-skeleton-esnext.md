@@ -122,5 +122,8 @@ export class ButtonApi {
 }
 ```
 
+#### Step 3 - add KendoUI widgets
+
+It is custom to keep the thrid party packages in the vendors folder, so we need to create this folder and add the needed KendoUI code.
 
 
