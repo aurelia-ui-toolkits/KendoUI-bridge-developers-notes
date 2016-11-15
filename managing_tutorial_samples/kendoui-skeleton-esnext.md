@@ -40,4 +40,17 @@ This added folder's content is:
 
 It is custom to keep the thrid party packages in the vendors folder, so we need to create this folder and add the needed KendoUI code.
 
+#### Step 4 - modifying various existing files
 
+##### Step 4.1 index.html
+
+Add these **[three scripts](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/index.html#L18-L21)**
+
+```
+<!-- Kendo-SDK files -->
+<script src="kendo-sdk/js/jquery.min.js"></script>
+<script src="kendo-sdk/js/jszip.min.js"></script>
+<script src="kendo-sdk/js/kendo.all.min.js"></script>
+```
+
+___Note: the line `<script src="kendo-sdk/js/kendo.all.min.js"></script>` is a temporary placeholder - it will be replaced with `kendo.custom.min.js` created to include only KendoUI widgets actually used in the application___.
