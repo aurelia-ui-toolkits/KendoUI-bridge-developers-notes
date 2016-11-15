@@ -3,5 +3,5 @@ _Managing tutorial samples_
 
 |[Original source code](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-aspnetcore)|[Matching KendoUI sample](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext-aspnetcore)|
 
-#### _Note - the code in the [Matching KendoUI sample](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext-aspnetcore) is still the same as the original code_
+#### _Warning - the code in the [Matching KendoUI sample](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext-aspnetcore) is still the same as the original code._
 
