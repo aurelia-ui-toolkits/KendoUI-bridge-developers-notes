@@ -26,7 +26,7 @@ The specifics of each transformation are described on the following pages:
 
 [6. KendoUI-skeleton-typescript-webpack](./managing_tutorial_samples/kendoui-skeleton-typescript-webpack.html)
 
-Each of the above pages shows what needs to be changed in order to add a few additional tabs which render Aurelia KendoUI components: 
+Each of the above pages shows what needs to be changed in order to add four additional tabs which render Aurelia KendoUI components. The first two use the **[KendoUI core](http://www.telerik.com/kendo-ui/open-source-core)** widgets, while the second two use subscription based **[KendoUI Pro package](http://www.telerik.com/kendo-ui)**.
 
 - **`Autocomplete`** and **`Button`** tabs to illustrate the use of **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)**
 
