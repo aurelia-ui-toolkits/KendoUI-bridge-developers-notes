@@ -10,9 +10,9 @@ This article explains the creation and management of the **[kendoui-tutorials-co
 Copy the code of the original navigation skeleton sample from **[skeleton-navigation](https://github.com/aurelia/skeleton-navigation)** sample to **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)**
 
 ##### Step 2
-"Massage" the original code in just the created **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository to add all changes needed to make this sample use KendoUI bridge.
+Transform the original code in just the created **[kendoui-tutorials-code](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code)** repository to add all changes needed to make this sample use KendoUI bridge.
 
-The specifics of each transformation ("massage") are described on the following pages:
+The specifics of each transformation are described on the following pages:
 
 [1. KendoUI-skeleton-esnext](./managing_tutorial_samples/kendoui-skeleton-esnext.html)
 
@@ -26,7 +26,7 @@ The specifics of each transformation ("massage") are described on the following 
 
 [6. KendoUI-skeleton-typescript-webpack](./managing_tutorial_samples/kendoui-skeleton-typescript-webpack.html)
 
-On each page we show what needs to be changed in order to add a few additional tabs which render Aurelia KendoUI components: 
+Each of the above pages shows what needs to be changed in order to add a few additional tabs which render Aurelia KendoUI components: 
 
 - **`Autocomplete`** and **`Button`** tabs to illustrate the use of **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)**
 
