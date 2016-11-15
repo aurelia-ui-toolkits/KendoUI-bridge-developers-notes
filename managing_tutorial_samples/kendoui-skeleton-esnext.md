@@ -55,4 +55,6 @@ Add these **[three scripts](https://github.com/aurelia-ui-toolkits/kendoui-tutor
 
 ___Note: the line `<script src="kendo-sdk/js/kendo.all.min.js"></script>` is a temporary placeholder - it will be replaced with `kendo.custom.min.js` created to include only KendoUI widgets actually used in the application___.
 
-##### Step 4.2 
+##### Step 4.2 [package.json](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/package.json)
+
+Add the reference to **[`aurelia-kendoui-bridge`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/package.json#L73)**
