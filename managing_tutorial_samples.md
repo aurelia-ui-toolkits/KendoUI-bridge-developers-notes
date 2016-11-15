@@ -36,14 +36,14 @@ Each of the above pages shows what needs to be changed in order to add a few add
 Image 1
 </p>
 
-
  <br>
 
-  <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/20287212/3a511eca-aa99-11e6-812a-315908c8b5b3.png"></img>
- <br>
+   <p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/20317378/ca66a49a-ab33-11e6-9a19-7aa442a712a3.png"></img>
+ <br><br>
 Image 2
 </p>
+
 
 <br>
 - **`Chart`** and **`Grid`** tabs to illustrate the use of **[KendoUI Pro](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_pro.html)**
