@@ -22,19 +22,18 @@ This sample uses **[JSPM](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-i
 
 This added folder's content is:
 
-1. **`autocomplete`**
+1. [**`autocomplete`**](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext/src/kendoui/autocomplete)
  - [`autocomplete.html`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/autocomplete/autocomplete.html)
   - [`autocomplete.js`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/autocomplete/autocomplete.js)
 <br><br>
 
 2. [**`button`**](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext/src/kendoui/button)
 
+  - [`button.html`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/button/button.html)
 
-  - [`button.html`]()
+  - [`button.js`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/button/button.js)
 
-  - [`button.js`]()
-
-  - [`button.css`]()
+  - [`button.css`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/button/button.css)
 
 
 #### Step 3 - add KendoUI widgets
