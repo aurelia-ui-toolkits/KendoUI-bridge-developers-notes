@@ -42,7 +42,7 @@ It is custom to keep the thrid party packages in the vendors folder, so we need 
 
 #### Step 4 - modifying various existing files
 
-##### Step 4.1 [index.html](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/index.html)
+##### Step 4.1 - [index.html](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/index.html)
 
 Add these **[three scripts](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/index.html#L18-L21)**
 
@@ -55,6 +55,13 @@ Add these **[three scripts](https://github.com/aurelia-ui-toolkits/kendoui-tutor
 
 ___Note: the line `<script src="kendo-sdk/js/kendo.all.min.js"></script>` is a temporary placeholder - it will be replaced with `kendo.custom.min.js` created to include only KendoUI widgets actually used in the application___.
 
-##### Step 4.2 [package.json](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/package.json)
+##### Step 4.2 - [package.json](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/package.json)
 
 Add the reference to **[`aurelia-kendoui-bridge`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/package.json#L73)**
+
+##### Step 4.3 -  [Changes to prevent JSPM from loading JQuery](https://aurelia-ui-toolkits.gitbooks.io/kendoui-bridge-docs/content/app_developer_notes/prevent_jspm_from_loading_jquery.html)
+
+- Run `jspm install bootstrap -o "{ dependencies: {} }"`
+- Add **[this line](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/config.js#L27)** to **[config.js](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/config.js)**
+
+***
