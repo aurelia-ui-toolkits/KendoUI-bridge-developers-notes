@@ -62,3 +62,4 @@ Add the reference to **[`aurelia-kendoui-bridge`](https://github.com/aurelia-ui-
 - Add **[this line](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/config.js#L27)** to **[config.js](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/config.js)**
 
 ***
+***
