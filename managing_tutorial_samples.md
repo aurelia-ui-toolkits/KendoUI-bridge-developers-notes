@@ -31,10 +31,11 @@ Each of the above pages shows what needs to be changed in order to add a few add
 - **`Autocomplete`** and **`Button`** tabs to illustrate the use of **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)**
 
   <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/20287112/928846dc-aa98-11e6-9439-7c6c4ae3f3f0.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/20317317/8368b0ce-ab33-11e6-83c7-26e140d6ed3e.png"></img>
  <br>
 Image 1
 </p>
+
 
  <br>
 
