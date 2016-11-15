@@ -28,11 +28,8 @@ This added folder's content is:
 <br><br>
 
 2. [**`button`**](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext/src/kendoui/button)
-
   - [`button.html`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/button/button.html)
-
   - [`button.js`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/button/button.js)
-
   - [`button.css`](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/blob/master/skeleton-esnext/src/kendoui/button/button.css)
 
 
