@@ -30,7 +30,7 @@ Each of the above pages shows what needs to be changed in order to add a few add
 
 - **`Autocomplete`** and **`Button`** tabs to illustrate the use of **[KendoUI Core](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_core.html)**
 
-  <p align=center>
+<p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/20317317/8368b0ce-ab33-11e6-83c7-26e140d6ed3e.png"></img>
  <br>
 Image 1
@@ -48,7 +48,19 @@ Image 2
 <br>
 - **`Chart`** and **`Grid`** tabs to illustrate the use of **[KendoUI Pro](https://aurelia-ui-toolkits.gitbooks.io/kendo-ui-sdk-installation/content/installation/installing%20kendo/kendo_pro.html)**
 
+  <p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/20317448/18ab9c50-ab34-11e6-9465-10919f9a5192.png"></img>
+ <br>
+Image 3
+</p>
 
+  <br>
+
+  <p align=center>
+<img src="https://cloud.githubusercontent.com/assets/2712405/20317495/47e7a0a4-ab34-11e6-8c82-1807b729e1fa.png"></img>
+ <br>
+Image 4
+</p>
 
 ***
 
