@@ -35,7 +35,7 @@ This added folder's content is:
 
 #### Step 3 - add KendoUI widgets
 
-It is custom to keep the thrid party packages in the vendors folder, so we need to create this folder and add the needed KendoUI code.
+Define the **[kendo-sdk](https://github.com/aurelia-ui-toolkits/kendoui-tutorials-code/tree/master/skeleton-esnext/kendo-sdk)** folder as the standard location for KendoUI widgets, so we need to create this folder and add the needed KendoUI code.
 
 #### Step 4 - modifying various existing files
 
